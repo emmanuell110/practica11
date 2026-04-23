@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643830668915",
+    "project_id": "fir-login-34bf3",
+    "storage_bucket": "fir-login-34bf3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643830668915:android:d8083a601fec210ea25406",
+        "android_client_info": {
+          "package_name": "mx.edu.itesca.practica11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUuonyY_kgYZnW3nNY55S2eZHpHdAGPBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
